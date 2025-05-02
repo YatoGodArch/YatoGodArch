@@ -11,6 +11,12 @@ Hi there! 👋 I'm [Yato], and I'm passionate about anime, gaming, and always ea
 
 ## 📈 Learning Journey
 
+Coding Archive
+HTML CSS PYTHON R BASH PIP HASKELL RUBY SWIFT
+
+Cyber Sec Enthusiast
+SOC Intern , Penetration tester , Vulnerabilities , Asset Management , Firewall Testing And Many More Brewing !!!
+
 I’m always exploring new areas and improving my skills. If you have any tips, resources, or projects that might interest me, please let me know!
 
 ## 📫 Get in Touch
